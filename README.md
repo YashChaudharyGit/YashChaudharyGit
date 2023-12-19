@@ -1,6 +1,6 @@
 # Hello, I'm Yash Chaudhary! 👋
 
-I'm a passionate and data-driven individual with a keen interest in data analysis. As a recent graduate in [Your Degree or Field], I am eager to contribute my skills and learn from the vibrant GitHub community.
+I'm a passionate and data-driven individual with a keen interest in data analysis. As a recent graduate , I am eager to contribute my skills and learn from the vibrant GitHub community.
 
 ## 🚀 Projects
 
