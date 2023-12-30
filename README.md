@@ -11,7 +11,6 @@ In this project, I explored and analyzed data from an e-commerce platform, aimin
 - Customer behavior analysis
 - Sales trends and forecasting
 - Product performance assessment
-- Visualization of key metrics using tools like Matplotlib and Seaborn
 
 ### 2. Bank Analysis Dashboard
 
@@ -19,8 +18,7 @@ In my second project, I delved into the world of financial data analysis by crea
 
 - Customer segmentation based on financial behavior
 - Risk assessment and fraud detection
-- Interactive visualization using tools like Plotly
-- Utilization of machine learning models for predictive analysis
+- Interactive visualization using tools like Power BI
 
 
 ## 📚 Education
